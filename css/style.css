@@ -72,7 +72,7 @@ body {
   font-weight: 400;
   margin: 0px;
   background-color: var(--Primary-colors-white);
-  background-image: url('/images/bacground-img-section3.png');
+  background-image: url('/css/bacground-img-section3.png');
   background-repeat: no-repeat;
   background-position: center 1560px;
 }
@@ -193,7 +193,7 @@ ul {
 }
 /* 5. Додавання фонового зображення до секції / Adding a background image to the section */
 .section-all-padding.section1 {
-  background-image: url('/images/bacground-img-main.png');
+  background-image: url('/css/bacground-img-main.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center 0px;
@@ -314,13 +314,7 @@ ul {
   padding-right: 90px;
   display: flex;
 }
-/* 4. Додавання фонового фото «хвилі» на задній план на сторінці три / Adding a background wave image to the back of the third page */
-/* .section-all-padding.section3 {
-  background-image: url('/artemkoliasa-genius-homework-2-Corrected-version-.-main/images/bacground-img-section3.png');
-  background-repeat: no-repeat;
-  background-position: center 0px;
-  background-size: cover;
-} */
+
 /* FLEXBOX-SECTION №3 */
 /* 1. Правильне розміщення елементів на сторінці три / Proper placement of elements on the third page */
 .section3-container {
